@@ -1,9 +1,9 @@
 # Car-Sales-Dashboard-in-Power-BI
 
-### Highlight
+### Overview
 Welcome to the Car Sales Dashboard project! This initiative aims to provide our car dealership with a comprehensive tool for tracking and analyzing sales performance.
 
-![Alt text]("car_sales.png")
+![Alt text](https://github.com/Franklin-ferguson/Car-Sales-Dashboard-in-Power-BI/blob/main/car_sales.png)
 
 ## Features 
 - Interactive Visualizations: Engage with data through charts and graphs that present sales metrics in an intuitive format.
