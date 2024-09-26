@@ -3,7 +3,7 @@
 ### Highlight
 Welcome to the Car Sales Dashboard project! This initiative aims to provide our car dealership with a comprehensive tool for tracking and analyzing sales performance.
 
-![Alt text]("car sales.png")
+![Alt text]("car_sales.png")
 
 ## Features 
 - Interactive Visualizations: Engage with data through charts and graphs that present sales metrics in an intuitive format.
